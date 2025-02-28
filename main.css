@@ -4,13 +4,7 @@
   box-sizing: border-box;
 }
 
-header,
-section h2,
-section p,
-section li,
-input,
-form button,
-footer {
+body {
   font-family: "Courier New", Courier, monospace;
 }
 
@@ -28,7 +22,7 @@ header .container {
 header nav li {
   display: inline;
   margin-left: 16px;
-  font-size: 18px;
+  font-size: 1em;
 }
 
 header nav li a {
